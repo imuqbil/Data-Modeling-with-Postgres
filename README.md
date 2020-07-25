@@ -1,11 +1,11 @@
-- Summary of the project
+### Summary of the project
 
 To create a star schema to be optimized for queries on song play analysis
 
-- how to run the Python scripts
+#### - how to run the Python scripts
 Run create_tables.py first, then run elt.py
 
-- explanation of the files in the repository
+#### - explanation of the files in the repository
 
 test.ipynb shows the first few rows of each table.
 create_tables.py drops and creates the tables. 
