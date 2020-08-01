@@ -3,7 +3,8 @@
 To create a star schema to be optimized for queries on song play analysis
 
 #### - how to run the Python scripts
-Run create_tables.py first, then run elt.py
+- Run create_tables.py first
+- Then run elt.py
 
 #### - explanation of the files in the repository
 
